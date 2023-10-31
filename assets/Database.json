@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Koromon",
+    "level": "Baby",
+    "type": "Data"
+
+  },
+  {
+    "id": 2,
+    "name": "Agumon",
+    "level": "Rookie",
+    "type": "Data"
+  },
+  {
+    "id": 3,
+    "name": "Greymon",
+    "level": "Champion",
+    "type": "Data"
+  },
+  {
+    "id": 4,
+    "name": "MetalGreymon",
+    "level": "Perfect",
+    "type": "Data"
+  },
+  {
+    "id": 5,
+    "name": "WarGreymon",
+    "level": "Ultimate",
+    "type": "Data"
+  },
+  {
+    "id": 6,
+    "name": "Tsunumon",
+    "level": "Baby",
+    "type": "Data"
+  },
+  {
+    "id": 7,
+    "name": "Gabumon",
+    "level": "Rookie",
+    "type": "Data"
+  },
+  {
+    "id": 8,
+    "name": "Garurumon",
+    "level": "Champion",
+    "type": "Data"
+  },
+  {
+    "id": 9,
+    "name": "WereGarurumon",
+    "level": "Perfect",
+    "type": "Data"
+  },
+  {
+    "id": 10,
+    "name": "MetalGarurumon",
+    "level": "Ultimate",
+    "type": "Data"
+  },
+  {
+    "id": 11,
+    "name": "Omegamon",
+    "level": "Perfect",
+    "type": "Data"
+  },
+  {
+    "id": 12,
+    "name": "Omegamon X",
+    "level": "Perfect",
+    "type": "Data"
+  },
+  {
+    "id": 13,
+    "name": "Omegamon Alter Z",
+    "level": "Perfect",
+    "type": "Data"
+  }
+]
